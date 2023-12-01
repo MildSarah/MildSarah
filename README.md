@@ -103,7 +103,7 @@ Selenium is chosen for its robust cross-browser compatibility and wide community
 Automated Test Scripts:
 User Registration:
 python
-Copy code
+
 # Automation script for user registration
 # Test case: Verify successful user registration with valid details.
 
@@ -114,7 +114,7 @@ Copy code
 assert "Welcome" in driver.title  # Assuming the title changes after successful registration
 Product Search:
 python
-Copy code
+C
 # Automation script for product search
 # Test case: Verify the search functionality returns relevant results.
 
@@ -125,7 +125,7 @@ Copy code
 assert len(search_results) > 0  # Assuming search results are displayed
 Adding Items to Cart:
 python
-Copy code
+
 # Automation script for adding items to cart
 # Test case: Confirm that items can be added to the cart from product pages.
 
