@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manali Iyengar
 - 👀 I’m interested in QA position
-- 🌱 
-- 💞
+- 🌱 Studied in Bachelor's degree in Computer Science
+- 💞 Having eperience in Larsen & Tourbro Technology Services with 1.10 yrs
 - 📫 
 
 <!---
